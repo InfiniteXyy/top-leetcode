@@ -1,0 +1,8 @@
+{
+  "cSpell.words": [
+    "vitest"
+  ],
+  "files.exclude": {
+    "node_modules": true,
+  }
+}

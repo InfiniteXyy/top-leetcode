@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "types": [
+      "vitest/globals"
+    ],
+    "lib": [
+      "ESNext"
+    ],
+    "baseUrl": "."
+  },
+  "include": [
+    "data-structure",
+    "problems"
+  ]
+}

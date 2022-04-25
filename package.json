@@ -1,0 +1,12 @@
+{
+  "name": "top-leetcode",
+  "private": true,
+  "devDependencies": {
+    "vitest": "^0.10.0",
+    "typescript": "^4.6.3"
+  },
+  "scripts": {
+    "dev": "vitest",
+		"test": "vitest run"
+  }
+}
