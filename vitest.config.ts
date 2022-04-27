@@ -9,6 +9,6 @@ export default defineConfig({
   },
   test: {
     globals: true,
-    include: ['problems/**/*.spec.ts'],
+    include: ['problems/**/*.ts'],
   },
 })
