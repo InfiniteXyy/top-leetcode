@@ -1,13 +1,19 @@
 {
   "compilerOptions": {
     "strict": true,
+    "esModuleInterop": true,
     "types": [
       "vitest/globals"
     ],
     "lib": [
       "ESNext"
     ],
-    "baseUrl": "."
+    "baseUrl": ".",
+    "paths": {
+      "~/*": [
+        "./*"
+      ]
+    }
   },
   "include": [
     "data-structure",

@@ -1,4 +1,4 @@
-import { ListNode } from '../data-structure'
+import { ListNode } from '~/data-structure'
 
 function reverseList(head: ListNode | null): ListNode | null {
   if (head === null || head.next === null) return head
